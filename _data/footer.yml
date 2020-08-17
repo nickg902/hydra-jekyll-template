@@ -1,6 +1,4 @@
 - links:
-  - name: Pricing
-    link: /pricing/
   - name: Blog
     link: /blog/
   - name: About
@@ -8,16 +6,16 @@
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
+  - name: Cyber Atlantic
     link: /
     new_window: true
-  - name: Sign Up
+  - name: AtlSecCon
     link: /
     new_window: true
-  - name: Docs
+  - name: DC902
     link: /
     new_window: true
-  - name: Status
+  - name: BSides Halifax
     link: /
     new_window: true
 - links:
