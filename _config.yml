@@ -11,10 +11,10 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: People, Technology, Security
-author: nickg902
+author:
   name: 
-  email: nick@icns.ca
-  twitter: nickg902# twitter username without the @ symbol
+  email:
+  twitter: # twitter username without the @ symbol
 social:
   name: Hydra Template
   links:
